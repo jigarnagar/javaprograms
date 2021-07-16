@@ -3,7 +3,7 @@ package com.javaprogram.practice.threads;
 /**
  * How to print even and odd numbers using threads in java
  * 
- * @author charvi
+ * @author Jigar Nagar
  *
  */
 public class EvenOddThreadProgram {
